@@ -1,2 +1,2 @@
 # OSFTasks
-OSF Practice tasks
+OSF practice tasks
