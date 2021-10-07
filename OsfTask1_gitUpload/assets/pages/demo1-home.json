@@ -1,0 +1,36 @@
+{
+  "layout": [
+    {
+      "components": [
+        "HeaderDesktop"
+      ],
+      "width": 12,
+      "type": "header"
+    },
+    {
+      "components": [
+        "_MainWidget1"
+      ],
+      "width": 6,
+      "type": "main"
+    },
+    {
+      "components": [
+        "_Random-web-content"
+      ],
+      "width": 6,
+      "type": "main"
+    },
+    {
+      "components": [
+        "Footer"
+      ],
+      "width": 12,
+      "type": "footer"
+    }
+  ],
+  "defaultPage": true,
+  "address": "/home",
+  "title": "Demo1 Home",
+  "shortName": "home"
+}
